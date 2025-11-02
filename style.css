@@ -8,7 +8,8 @@ body {
   font-family: "Happy Monkey", system-ui;
   text-align: center;
   color: #ffffff;
-  background: #a2d2ff;
+  /* background: #a2d2ff; */
+  background: linear-gradient(#a2d2ff, #efb0c9);
   display: flex;
   flex-direction: column;
   justify-content: center;
