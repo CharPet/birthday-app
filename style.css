@@ -83,3 +83,7 @@ h4 {
   background-size: cover;
   margin: 0 auto;
 }
+
+.gift-img:hover {
+  background-image: url(./images/happy.gif);
+}
