@@ -70,12 +70,16 @@ h4 {
   margin-bottom: 10px;
 }
 
-.gift-title {
+.gift-hint {
   margin-top: 0;
 }
 
 .gift-img {
   width: 400px;
+  height: 400px;
   border: 6px solid #ffffff;
   border-radius: 10px;
+  background-image: url(./images/gift-cover.jpg);
+  background-size: cover;
+  margin: 0 auto;
 }
