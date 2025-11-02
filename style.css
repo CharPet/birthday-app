@@ -79,11 +79,15 @@ h4 {
   height: 400px;
   border: 6px solid #ffffff;
   border-radius: 10px;
-  background-image: url(./images/gift-cover.jpg);
+  background-image: url("./images/gift-cover.jpg");
   background-size: cover;
   margin: 0 auto;
 }
 
-.gift-img:hover {
-  background-image: url(./images/happy.gif);
+#gift-img-happy:hover {
+  background-image: url("./images/happy.gif");
+}
+
+#gift-img-hot:hover {
+  background-image: url("./images/hot.gif");
 }
